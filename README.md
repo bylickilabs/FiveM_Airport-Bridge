@@ -1,8 +1,5 @@
 ### BETA
 
-|Instructions|
-|---|
-
 ```yarn
 Our bridge is a structure designed to cross obstacles such as rivers,
 valleys or roads by creating a connection between two points.
@@ -11,6 +8,9 @@ Our bridge is designed to create a shortcut between the beach and the airport.
 ```
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
+
+|Instructions|
+|---|
 
 ```yarn
 -[✅] Unpack the archive, 
