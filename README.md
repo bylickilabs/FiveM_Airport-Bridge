@@ -7,7 +7,6 @@
 Restart server...
 
 ```
-![Bridge](https://github.com/user-attachments/assets/84f88fb2-bdb3-4842-88c2-d0b598f58890)
 
 ```yarn
 Our bridge is a structure designed to cross obstacles such as rivers,
