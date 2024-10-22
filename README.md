@@ -3,7 +3,7 @@
 -[✅] Unpack the archive, 
 -[✅] load it in your fivem resources
 -[✅] enter your server config 'start AirportBridge'
-
+-[✅] Remove the -main extension from the archive to be unpacked
 Restart server...
 
 ```
