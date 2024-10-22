@@ -10,10 +10,11 @@ Restart server...
 ![Bridge](https://github.com/user-attachments/assets/84f88fb2-bdb3-4842-88c2-d0b598f58890)
 
 ```yarn
-Unsere Brücke ist eine Konstruktion, die dazu dient, Hindernisse wie Flüsse, Täler oder Straßen zu überqueren, 
-indem sie eine Verbindung zwischen zwei Punkten herstellt.  
+Our bridge is a structure designed to cross obstacles such as rivers,
+valleys or roads by creating a connection between two points.
 
-Unsere Brücke dient dazu, eine Abkürzung zwischen dem Strand und den Flughafen zu schaffen.
+Our bridge is designed to create a shortcut between the beach and the airport.
+
 ```
 
 ![Bridge](https://github.com/user-attachments/assets/84f88fb2-bdb3-4842-88c2-d0b598f58890)
