@@ -2,7 +2,7 @@
 ```yarn
 -[✅] Unpack the archive, 
 -[✅] load it in your fivem resources
--[✅] enter your server config 'Start Airportbridge'.
+-[✅] enter your server config 'start Airportbridge'
 
 Restart server...
 
