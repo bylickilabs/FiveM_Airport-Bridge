@@ -1,5 +1,8 @@
 ### BETA
 
+|Instructions|
+|---|
+
 ```yarn
 Our bridge is a structure designed to cross obstacles such as rivers,
 valleys or roads by creating a connection between two points.
