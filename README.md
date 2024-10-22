@@ -1,10 +1,11 @@
 ### BETA
 ```yarn
-Unpack the archive, 
-load it in your fivem resources
-enter your server config 'Start Airportbridge'.
+-[✅] Unpack the archive, 
+-[✅] load it in your fivem resources
+-[✅] enter your server config 'Start Airportbridge'.
 
 Restart server...
+
 ```
 ![Bridge](https://github.com/user-attachments/assets/84f88fb2-bdb3-4842-88c2-d0b598f58890)
 
